@@ -1,0 +1,18 @@
+{
+  "name": "rrjs",
+  "version": "1.0.0",
+  "description": "Spam ASCI in consol",
+  "main": "asciiPlayer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "npx http-server -p 8000"
+  },
+  "keywords": [
+    "ascii",
+    "animation",
+    "terminal",
+    "rick roll"
+  ],
+  "author": "Terraegg",
+  "license": "MIT"
+}
