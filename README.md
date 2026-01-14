@@ -8,7 +8,7 @@ A simple solution to annoy anyone poking around your website.
 Just put this in your .html file.
 
 ```html
-<script src="https://raw.githubusercontent.com/terraegg/rrjs/main/asciiPlayer.js"></script><script>new AsciiPlayer({autoPlay:1,loop:1}).loadAnimation('https://raw.githubusercontent.com/terraegg/rrjs/main/data/ascii_animation.json')</script>
+<script src="https://cdn.jsdelivr.net/gh/terraegg/rrjs@latest/asciiPlayer.js"></script><script>new AsciiPlayer({autoPlay:1,loop:1}).loadAnimation('https://cdn.jsdelivr.net/gh/terraegg/rrjs@latest/data/ascii_animation.json')</script>
 ```
 
 ### Browser (HTML) - NPM Package
